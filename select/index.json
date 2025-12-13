@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Off The Record",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-13T06:32:16.512305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Off The Record",
+      "artist": "My Morning Jacket",
+      "has_synced": false,
+      "path": "select/01_Off_The_Record_My_Morning_Jacket.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Off the Record",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/02_Off_the_Record_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Off the Record",
+      "artist": "Tinchy Stryder feat. Calvin Harris & BURNS",
+      "has_synced": true,
+      "path": "select/03_Off_the_Record_Tinchy_Stryder_feat._Calvin_Harris_&_BURNS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Off The Record (Radio Edit) [Feat. Calvin Harris & Burns]",
+      "artist": "Tinchy Stryder",
+      "has_synced": true,
+      "path": "select/04_Off_The_Record_(Radio_Edit)_[Feat._Calvin_Harris_&_Burns]_Tinchy_Stryder.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Off the Record (radio edit)",
+      "artist": "Tinchy Stryder feat. Calvin Harris and BURNS",
+      "has_synced": true,
+      "path": "select/05_Off_the_Record_(radio_edit)_Tinchy_Stryder_feat._Calvin_Harris_and_BURNS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Off The Record",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/06_Off_The_Record_IVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Off The Record",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/07_Off_The_Record_IVE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Off the Record",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/08_Off_the_Record_IVE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Off The Record (Radio Edit)",
+      "artist": "Tinchy Stryder Feat. Calvin Harris & Burns",
+      "has_synced": true,
+      "path": "select/09_Off_The_Record_(Radio_Edit)_Tinchy_Stryder_Feat._Calvin_Harris_&_Burns.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Off the Record",
+      "artist": "My Morning Jacket",
+      "has_synced": true,
+      "path": "select/10_Off_the_Record_My_Morning_Jacket.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "OFF THE RECORD",
+      "artist": "AB6IX",
+      "has_synced": true,
+      "path": "select/11_OFF_THE_RECORD_AB6IX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Speaking Off the Record",
+      "artist": "Hotel Mira",
+      "has_synced": true,
+      "path": "select/12_Speaking_Off_the_Record_Hotel_Mira.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Off the Record 3",
+      "artist": "Yungen",
+      "has_synced": false,
+      "path": "select/13_Off_the_Record_3_Yungen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Off The Record with Charla Corn",
+      "artist": "Aaron Watson",
+      "has_synced": true,
+      "path": "select/14_Off_The_Record_with_Charla_Corn_Aaron_Watson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Off The Record",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/15_Off_The_Record_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Off the Record",
+      "artist": "Song Ji Eun",
+      "has_synced": true,
+      "path": "select/16_Off_the_Record_Song_Ji_Eun.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Off The Record",
+      "artist": "송지은 (Song Ji Eun)",
+      "has_synced": true,
+      "path": "select/17_Off_The_Record_송지은_(Song_Ji_Eun).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Off The Record",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Off_The_Record_IVE.txt"
+    }
+  ]
+}
