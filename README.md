@@ -1,0 +1,78 @@
+# IVE – Off The Record
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.35] 시간이 됐어 It's 2 A.M
+[00:12.65] 목소릴 낮추고 더 속삭여줄래
+[00:16.61] 이 밤이 좀 더 깊어지면
+[00:22.06] 뭔가 더 솔직해도 될 것 같은 기분이 들어
+[00:33.56] 
+[00:26.39] 있잖아 가끔 난 무척
+[00:28.86] 발칙한 상상을 해
+[00:31.09] 남들은 절대 모를 걸
+[00:33.28] 이젠 비공개 모드야
+[00:38.28] 
+[00:37.06] Off the record night
+[00:38.48] This late night conversation
+[00:40.94] 멈추지 않아
+[00:43.42] No more time, no more kill my vibe
+[00:47.73] This late night conversation
+[00:50.48] 잠들지 않아
+[00:53.48] 
+[00:52.38] Yeah 비밀스럽게 잠겨진 문
+[00:56.94] 그 맘을 우리에게 살짝 열어줘
+[01:00.86] 떠나 forbidden island
+[01:03.46] 찾아 forbidden fruit
+[01:05.25] 가끔은 왠지 금지된 게 궁금하거든 yeah
+[01:16.75] 
+[01:10.91] 순진한 가면을 벗고
+[01:13.77] 흑심을 드러내 봐
+[01:15.21] 그런 게 없을 리 없어
+[01:17.88] 이젠 비공개 모드야
+[01:22.88] 
+[01:21.03] Off the record night
+[01:23.08] This late night conversation
+[01:25.41] 멈추지 않아
+[01:27.95] No more time, no more kill my vibe
+[01:31.92] This late night conversation
+[01:34.61] 잠들지 않아
+[01:37.61] 
+[01:36.26] Make it round on the ground yeah
+[01:41.06] 더 가까이 모여 앉아
+[01:43.66] 자, 모든 걸 털어놔
+[01:47.61] Off the record night
+[01:49.67] This late night conversation
+[01:52.23] 멈추지 않아
+[01:55.23] 
+[01:54.89] We're talkin' 'bout the late n-n-n-n-night conversation
+[01:58.04] Late night conversation
+[02:00.42] 못 살아 내가 정말 미쳐 진짜? 그래서 또 뭔데?
+[02:04.17] 난 그냥 restaurant, cafe, 영화
+[02:06.50] 그런 사랑 말고 조금 더 특별한
+[02:08.81] 은밀하고 아찔한 걸 원해 난
+[02:11.22] So this is my time, it's my time
+[02:27.22] 
+[02:12.82] 숨막히는 trailer
+[02:14.83] 또 엄청난 반전도 있어야지
+[02:17.20] 로맨틱한 psycho 날 탐하면 모든 걸 견뎌야지
+[02:22.29] Love me, love me
+[02:24.17] 어서 날 Leave me, leave me
+[02:26.26] 날마다 killing healing
+[02:28.85] 또 외쳐 난 Stay this night
+[02:39.85] 
+[02:32.62] Off the record night
+[02:34.07] This late night conversation
+[02:36.52] 멈추지 않아
+[02:38.53] No more time, no more kill my vibe
+[02:43.14] This late night conversation
+[02:45.35] 잠들지 않아
+[02:48.35] 
+[02:47.41] Moon is setting tonight yeah (어둠이 조금 더 짙어져가)
+[02:52.15] 더 반짝거리는 your eyes (Lookin' it, lookin' it deep in the eyes)
+[02:55.19] 난 하늘의 별을 봐
+[03:00.19] 
+[02:58.93] Off the record night
+[03:00.76] This late night conversation
+[03:03.75] 잠들지 않아
+```
